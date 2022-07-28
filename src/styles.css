@@ -1,0 +1,41 @@
+.english-course {
+  border: 1px solid #42637a;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  background-color: #42637a;
+  font-family: "Poiret One", cursive;
+  color: #effbff;
+  height: 350px;
+}
+h1 {
+  text-align: center;
+  padding: 15px;
+}
+h2 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+ul {
+  list-style: circle;
+  font-size: 14px;
+}
+.second-option {
+  margin-bottom: 5px;
+  margin-left: 5px;
+  font-size: 16px;
+}
+.addition {
+  margin-left: 5px;
+}
+.option-block {
+  background: #7596ae;
+  border-radius: 15px;
+  height: 150px;
+}
+.first-option {
+  font-size: 16px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
